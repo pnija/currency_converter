@@ -1,5 +1,5 @@
 
-#currency_converter
+# currency_converter
 	A small ​ RESTful Web service application​ for converting currencies.
 
 ## 1. Running the project
